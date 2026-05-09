@@ -41,7 +41,11 @@ This tool is for educational and authorized security testing purposes only. The 
 
 ### 📥 ติดตั้งรวดเร็ว (คลิกเดียวจบ)
 ก๊อปปี้สคริปต์บรรทัดเดียวนี้ไปวางเพื่อเปิดเครื่องเล่น:
-`pkg update -y && pkg upgrade -y && pkg install python git -y && git clone https://github.com/Aether0777/MobFlood-in-Termux && cd MobFlood-in-Termux && python STRIK-X.py`
+`pkg update && pkg upgrade -y
+pkg install git python -y
+git clone https://github.com/KING-MUSIC-0777/MobFlood-in-Termux
+cd MobFlood-in-Termux
+python MobFlood.py`
 
 ### ⚠️ ข้อควรระวัง
 เครื่องมือนี้เปรียบเสมือนสวนน้ำจำลองเพื่อการศึกษาและการทดสอบระบบในขอบเขตที่ได้รับอนุญาตเท่านั้น ผู้พัฒนาจะไม่รับผิดชอบต่อการนำไปใช้งานในทางที่ผิดกฎหมาย หรือสร้างความเสียหายใดๆ ต่อผู้อื่น
