@@ -17,7 +17,11 @@ Open your "Water Park" and run the following command in your terminal:
 
 ### 📥 Quick Installation (One-Click)
 Copy and paste this command into your Termux:
-`pkg update -y && pkg upgrade -y && pkg install python git -y && git clone https://github.com/Aether0777/MobFlood-in-Termux && cd MobFlood-in-Termux && python STRIK-X.py`
+`pkg update && pkg upgrade -y
+pkg install git python -y
+git clone https://github.com/KING-MUSIC-0777/MobFlood-in-Termux
+cd MobFlood-in-Termux
+python MobFlood.py`
 
 ### ⚠️ Disclaimer
 This tool is for educational and authorized security testing purposes only. The developer is not responsible for any misuse, legal consequences, or damage caused by this program.
